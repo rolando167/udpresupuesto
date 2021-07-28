@@ -4,6 +4,7 @@ Proyecto de curso desarrollado
 Link:
 https://upbeat-albattani-a9166c.netlify.app/
 
+![alt text](https://github.com/rolando167/udpresupuesto/blob/master/main.jpg)
 
 # Getting Started with Create React App
 
